@@ -1,0 +1,3 @@
+deployment-terraform/tfinfra/.terraform/
+deployment-terraform/tfinfra/terraform.tfstate
+deployment-terraform/tfinfra/terraform.tfstate.backup
